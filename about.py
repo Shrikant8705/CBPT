@@ -32,3 +32,4 @@ def app():
     st.write("Mitigating the impacts of cloudbursts requires a combination of proactive measures, including improved urban planning, implementation of early warning systems, construction of flood control infrastructure, and community-based disaster preparedness initiatives. By enhancing resilience and preparedness, communities can reduce the risk of loss of life and property during cloudburst events.")
     st.header("_Conclusion_:")
     st.write("Cloudbursts are powerful and unpredictable natural phenomena that can have devastating consequences for human communities and the environment. Understanding the causes, effects, and impacts of cloudbursts is essential for effective disaster risk management and climate adaptation efforts in vulnerable regions.")
+    st.write("ThankYou!")
